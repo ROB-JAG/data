@@ -1842,5 +1842,11 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
+  },
+  {
+    "icao": "QFY",
+    "name": "QUALITY FLY",
+    "callsign": "QUALITY FLY",
+    "virtual": true
   }
 ]
