@@ -1,5 +1,11 @@
 [
   {
+   "icao": "QFY",
+   "name": "QUALITY FLY",  
+   "callsign": "QUALITY FLY",
+   "virtual": true
+  },
+  {
    "icao": "ASK",
    "name": "AIRSKY",  
    "callsign": "AIRSKY",
